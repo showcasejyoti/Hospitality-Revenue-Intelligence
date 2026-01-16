@@ -153,7 +153,7 @@ Occ % = (Total Booking/ Total Capacity) *100
 
 
 
-## Important Insights
+## 🔎Important Insights
 
 -	Hotels are following flat pricing since ADR is flat but Occ% and RevPar are fluctuating week over week.
 -	Week 29 recorded the highest Revenue among all, which is 164.5M
