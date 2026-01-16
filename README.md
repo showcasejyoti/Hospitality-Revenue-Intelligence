@@ -144,10 +144,12 @@ Occ % = (Total Booking/ Total Capacity) *100
 
 ### Overall View
 
+![overall___gif](https://github.com/user-attachments/assets/5d9d308a-fdd0-4b86-a425-22924e99e0b0)
 
 
 
 ### Daily View
+![daily_gif](https://github.com/user-attachments/assets/4aef9200-e76b-405e-93d4-027ed3ba500e)
 
 
 
