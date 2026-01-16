@@ -3,7 +3,7 @@ As a part of practicing codebasics resume challenge, I have worked on this analy
 
 Link to the [Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/4) 
 
-Link to [Interactive Dashboard](https://app.powerbi.com/groups/me/reports/c0254db6-2ed9-4b69-98e1-08cabd62ea57/a5bdfd3e29de4e465981?experience=power-bi)
+Link to [Interactive Dashboard](https://app.powerbi.com/groups/me/reports/c0254db6-2ed9-4b69-98e1-08cabd62ea57/9d003a6ecc0a409c1e40?experience=power-bi&bookmarkGuid=0eb1c14258ed2b7b2e69)
 
 Link to [Presentation Video]()
 
