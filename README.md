@@ -54,7 +54,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
  ### 📚Learning via Example
 
-Below is an example of booking room in a hotel for better understanding of Business Metrics :
+For a better understanding of business metrics, below is an example of booking rooms in a hotel.:
 
 If there are 110 rooms in a hotel in which:
 
@@ -72,7 +72,7 @@ Occ % = (Total Booking/ Total Capacity) *100
 
 
 ### 📅New Visual
-•	Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analysis. [Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D)
+•	Learnt to build a new calendar visual using a matrix table, which can be utilized for various analytical purposes. [Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D)
 
 
 ### 📜Concepts
@@ -156,7 +156,7 @@ Occ % = (Total Booking/ Total Capacity) *100
 ## 🔎Important Insights
 
 -	Hotels are following flat pricing since ADR is flat but Occ% and RevPar are fluctuating week over week.
--	Week 29 recorded the highest Revenue among all, which is 164.5M
+-	Week-29 has recorded the highest Revenue among all, which is 164.5M
 -	Mumbai contribute the highest Revenue realized as well as Revenue leakage followed by Banglore, Hydrabad, Delhi.
 -	Among all the platform, Makeyourtrip got the highest cancellation% (25.03%) and directoffline got the highest no-show% (5.31%)
 -	Cancelled booking and No-show are highest in Atliq Palace and Atliq Exotica.
@@ -172,4 +172,4 @@ Occ % = (Total Booking/ Total Capacity) *100
 - Do you prefer to keep Week on week change (or) Month on month change.
 - What is the objective and goals of building this Power-Bi dashboard?
 - In what terms, the success of this project will be measured?
-- What will be time dead-line of the project?
+- What will be the dead-line of the project?
