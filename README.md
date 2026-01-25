@@ -5,7 +5,7 @@ Link to the [Challenge](https://codebasics.io/challenges/codebasics-resume-proje
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWU0ODMzNDktMDI5NC00Yjg5LWFkMWUtNWZkNjQ3OWUyYWE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Link to [Presentation Video](https://www.linkedin.com/feed/update/urn:li:activity:7421107551779414016/)
+Link to [Presentation Video](https://www.linkedin.com/feed/update/urn:li:activity:7421208935321284608/)
 
 ## 🧾 Project Overview
 
